@@ -1,0 +1,12 @@
+
+*.xcuserstate
+
+FoodTracker.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+FoodTracker.xcodeproj/xcuserdata/JarcoK7.xcuserdatad/xcschemes/xcschememanagement.plist
+
+FoodTracker.xcodeproj/xcuserdata/JarcoK7.xcuserdatad/xcschemes/FoodTracker.xcscheme
+
+FoodTracker.xcodeproj/xcuserdata/JarcoK7.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist
+
+FoodTracker.xcodeproj/project.xcworkspace/xcuserdata/JarcoK7.xcuserdatad/xcdebugger/Expressions.xcexplist
